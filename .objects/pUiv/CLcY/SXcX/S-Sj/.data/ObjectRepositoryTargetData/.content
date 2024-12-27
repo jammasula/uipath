@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="k0l1omzjlkyJj0-bDS5khw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="1760774d-2cd2-4434-9834-065c1f6bdb4c" CvTextArea="544, 261, 168, 13" CvType="AnyWordGroup" DesignTimeRectangle="546, 259, 165, 18" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='a-list-item' /&gt;" Guid="d8a91cc1-2255-4abd-94a1-56c3035b62e0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon Sign In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="528, 210, 336, 86" FuzzySelectorArgument="&lt;webctrl parentid='auth-error-message-box' tag='DIV' type='' class='a-box-inner a-alert-container' aaname='' check:innerText='There was a problem&amp;#xA;Your password is incorrect' /&gt;" Guid="2e26626f-40f6-4751-aa75-d769088f54b8" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="85a09b06a3e770bdd17ff41acdf676c5.png" xmlns="">0pKlmPM9UyECDV-4mcnHauA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

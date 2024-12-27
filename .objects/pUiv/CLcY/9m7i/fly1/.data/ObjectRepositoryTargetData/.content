@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sGyvKmA-NU-wVP27CjYr6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="28b0def1-40ce-48f6-95a4-04d8ef54fd52" CvElementArea="23, 164, 25, 22" CvType="Icon" DesignTimeRectangle="28, 168, 17, 14" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl parentid='nav-hamburger-menu' tag='I' type='' class='hm-icon nav-sprite' aaname='' /&gt;" Guid="e7070852-4bad-4f7d-91e5-98d4c7fa6d92" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABUAAAASCAYAAAC0EpUuAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAySURBVDhPY1DWt/tPbUxbQ6kB6GMoNfGooRAGNQB9DKUmHjUUwqAGoI+h1MQ0MNTuPwAazUTCD+4+UgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="28b0def1-40ce-48f6-95a4-04d8ef54fd52" CvTextArea="48, 167, 22, 14" CvTextArgument="All" CvType="Text" DesignTimeRectangle="45, 169, 23, 12" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='nav-hamburger-menu' tag='SPAN' type='' class='hm-icon-label' aaname='All' check:innerText='All' /&gt;" Guid="6f9ac439-9b27-49e7-9146-da10e5370208" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="17131bb2a25c5d6e17368cc9488d48a0.png" xmlns="">0H0P6uPm5vUSvlqB9MYKgxw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

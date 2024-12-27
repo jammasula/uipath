@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon Sign In",
+  "Type": "Screen",
+  "Id": "yuzFicMEI024q6vxh1QKlQ",
+  "Reference": "CtPucPusukSa2g_9BG1_WQ/yuzFicMEI024q6vxh1QKlQ",
+  "ParentRef": "CtPucPusukSa2g_9BG1_WQ/CLcYbD2iVEGex9O8G1PPIA",
+  "Created": "2024-12-27T10:49:35.1322124Z",
+  "Updated": "2024-12-27T10:49:35.1322124Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

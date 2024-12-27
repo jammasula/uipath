@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V12hjproREeGBvJqMnXE1A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="471c9a4c-18b4-4dce-aded-1d4c59a323c3" CvTextArea="42, 669, 135, 13" CvTextArgument="Amazon Prime Video" CvType="Text" DesignTimeRectangle="44, 668, 133, 16" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Amazon Prime Video' parentid='hmenu-content' tag='DIV' type='' class='' check:innerText='Amazon Prime Video' /&gt;" Guid="b2b14e1f-5f66-45e8-ad8a-925fa84a2c11" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="674eea173bc0c53f812cfff81f1ec4d6.png" xmlns="">01KuuWkEffkqZOQJjEDliRg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

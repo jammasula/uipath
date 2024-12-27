@@ -5,7 +5,8 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.System.Activities": "[24.10.7]",
-    "UiPath.Testing.Activities": "[24.10.3]"
+    "UiPath.Testing.Activities": "[24.10.3]",
+    "UiPath.UIAutomation.Activities": "[24.12.3-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -46,6 +47,13 @@
         "testCaseId": "4d82f989-ed0b-4afc-9d3f-ec044e1317e3",
         "testCaseType": "TestCase",
         "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d4b8a4a6-c656-45ca-a052-fe5dd81269b6",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Amazon.xaml"
       }
     ],
     "saveToCloud": false

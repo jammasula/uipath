@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TXKYwy7Q20q686egZeGj0Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="339cde78-c1e1-4269-b712-72d66ae301ce" CvElementArea="534, 246, 298, 33" CvType="InputBox" DesignTimeRectangle="535, 299, 296, 31" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='ap_email' tag='INPUT' type='email' class='a-input-text a-span12 auth-autofocus auth-required-field auth-require-claim-validation a-form-error' aaname='               Email or mobile phone number             ' /&gt;" Guid="02517551-a414-4ede-b9cf-c645a8277eaf" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon Sign In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="339cde78-c1e1-4269-b712-72d66ae301ce" CvTextArea="543, 291, 281, 15" CvTextArgument="! Wrong or Invalid email address or mobile phone" CvType="Text" DesignTimeRectangle="535, 277, 296, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='a-form-label' aaname='               Email or mobile phone number             ' check:innerText='Email or mobile phone number' /&gt;" Guid="3042c0ae-017f-4d5a-8b74-f7737d42a3dd" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="25000ab8e3f91bce1098985dcda1a04e.png" xmlns="">0u-ul7bBq40-6q5KAA_tD0A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

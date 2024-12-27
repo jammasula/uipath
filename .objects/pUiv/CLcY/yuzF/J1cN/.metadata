@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Wrong or Invalid email …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "J1cNunG6Mkqm1NfZDguBRg",
+  "Reference": "CtPucPusukSa2g_9BG1_WQ/J1cNunG6Mkqm1NfZDguBRg",
+  "ParentRef": "CtPucPusukSa2g_9BG1_WQ/yuzFicMEI024q6vxh1QKlQ",
+  "Created": "2024-12-27T10:50:11.5149672Z",
+  "Updated": "2024-12-27T10:50:11.5149672Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ok1HCyewU0mCV_DZbmS1Pg" Reference="CtPucPusukSa2g_9BG1_WQ/NTTiGGdNR0Oy25PImRs-ZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="3af1ee23-14ad-4f11-8b93-9ab8ff926e9f" CvTextArea="43, 659, 58, 16" CvTextArgument="Sign Out" CvType="Text" DesignTimeRectangle="8, 645, 348, 42" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Sign Out' class='hmenu-item' parentid='hmenu-content' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Sign Out' class='hmenu-item' parentid='hmenu-content' tag='A' type='' check:innerText='Sign Out' /&gt;" Guid="4641fd60-a327-460e-bfbe-0f9e2ac6eba2" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3af1ee23-14ad-4f11-8b93-9ab8ff926e9f" CvTextArea="43, 659, 58, 16" CvTextArgument="Sign Out" CvType="Text" DesignTimeRectangle="43, 659, 58, 16" ElementType="Text" Guid="9daabba6-24eb-4da6-9050-23911305df70" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5c7b727b0e6fba62c74ee1cca893a820.png" xmlns="">0MmWaqnWuMkyOJzJy7rQgAg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

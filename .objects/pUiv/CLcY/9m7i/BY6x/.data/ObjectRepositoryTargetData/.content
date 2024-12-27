@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fKymHx2b9E698-6W7dMRHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/signin" CVScreenId="e6610799-ec6e-42fe-89c2-fca5b4edc891" CvElementArea="534, 340, 299, 34" CvTextArea="656, 351, 55, 12" CvTextArgument="Continue" CvType="Button" DesignTimeRectangle="536, 343, 294, 29" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='continue' tag='INPUT' type='submit' class='a-button-input' aaname='' /&gt;" Guid="276bdf3c-dded-436f-9461-46ebdf7c73c8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon Sign In' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e6610799-ec6e-42fe-89c2-fca5b4edc891" CvElementArea="533, 298, 299, 34" CvType="InputBox" DesignTimeRectangle="535, 299, 296, 31" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='ap_email' tag='INPUT' type='email' class='a-input-text a-span12 auth-autofocus auth-required-field auth-require-claim-validation a-form-normal' aaname='               Email or mobile phone number             ' /&gt;" Guid="cd77649b-8cb3-4d95-92d1-d8e1db67bb19" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8d5056925afcbd94bcf220620d2d80e6.png" xmlns="">0cC69I3fihkWOPnOeY3MHFg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

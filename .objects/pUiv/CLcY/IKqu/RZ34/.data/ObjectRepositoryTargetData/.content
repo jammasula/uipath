@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3Ex1c2IGHE2HgHMgEodGFQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/ap/cvf/transactionapproval" CVScreenId="2abe73b6-2d2d-4986-8e34-8843dd87bd1f" CvTextArea="520, 241, 172, 15" CvType="AnyWordGroup" DesignTimeRectangle="521, 239, 170, 20" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='a-size-base-plus transaction-approval-word-break a-text-bold' /&gt;" Guid="f080a39e-dd01-467b-b052-5a717c3e7de2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Amazon' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2abe73b6-2d2d-4986-8e34-8843dd87bd1f" CvTextArea="520, 280, 304, 16" CvTextArgument="For your security, we have sent the code to your" CvType="Text" DesignTimeRectangle="520, 280, 304, 16" ElementType="Text" Guid="f63c0ab3-44fc-45b5-a5d1-94d3bb2fe8bd" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2b66d8d4a485839e2b856a5fb12de752.png" xmlns="">0UgKNpdXCKUqw6HsbDiK-ig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

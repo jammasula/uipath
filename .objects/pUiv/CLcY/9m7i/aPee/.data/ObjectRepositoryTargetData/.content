@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JrqFyAlMrECRpfXV4IotVw" Reference="CtPucPusukSa2g_9BG1_WQ/aPeeIXz1KU-pvQydS5KsAg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in" CVScreenId="d7ac4502-034d-4d47-a646-877394c312fb" CvTextArea="43, 659, 58, 16" CvTextArgument="Sign Out" CvType="Text" DesignTimeRectangle="8, 1355, 348, 42" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Sign Out' class='hmenu-item' parentid='hmenu-content' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Sign Out' class='hmenu-item' parentid='hmenu-content' tag='A' type='' check:innerText='Sign Out' /&gt;" Guid="a49b3f1e-4a42-4b4f-87e3-83056097d0d3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d7ac4502-034d-4d47-a646-877394c312fb" CvTextArea="43, 615, 112, 13" CvTextArgument="Customer Service" CvType="Text" DesignTimeRectangle="8, 1311, 348, 42" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Customer Service' class='hmenu-item' parentid='hmenu-content' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Customer Service' class='hmenu-item' parentid='hmenu-content' tag='A' type='' check:innerText='Customer Service' /&gt;" Guid="0bfa39d6-8f2d-4dec-a104-a71ae5ae1390" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
